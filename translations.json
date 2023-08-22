@@ -55,7 +55,11 @@
     "servernickchanger_errormsg": "Error",
     "server_leaver_left": "Left",
     "server_leaver_error": "Error",
-    "token_onliner": "All tokens are online!"
+    "token_onliner": "All tokens are online!",
+    "script_name": "Enter the name of the script file (no .py): ",
+    "script_function_run_not_found": "The 'run' function is not found in the script file.",
+    "script_file_not_found": "File not found."
+    "
   },
   "fr": {
     "news": "NOUVELLES",
@@ -113,7 +117,10 @@
     "servernickchanger_errormsg": "Erreur",
     "server_leaver_left": "Gauche",
     "server_leaver_error": "Erreur",
-    "token_onliner": "Tous les tokens sont en ligne !"
+    "token_onliner": "Tous les tokens sont en ligne !",
+    "script_name": "Saisissez le nom du fichier de script (pas de .py) : ",
+    "script_function_run_not_found": "La fonction 'run' est introuvable dans le fichier script.",
+    "script_file_not_found": "Fichier non trouvé."
   },
   "se": {
     "news": "NYTT",
@@ -171,7 +178,10 @@
     "servernickchanger_errormsg": "Fel",
     "server_leaver_left": "Lämnade",
     "server_leaver_error": "Fel",
-    "token_onliner": "Alla tokens är online!"
+    "token_onliner": "Alla tokens är online!",
+    "script_name": "Skriv in namnet på den anpassade skriptfilen (utan .py): ",
+    "script_function_run_not_found": "'Kör' funktionen hittas inte i användarfilen.",
+    "script_file_not_found": "Filen hittades inte"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -229,7 +239,10 @@
     "servernickchanger_errormsg": "Ошибка",
     "server_leaver_left": "Вышел",
     "server_leaver_error": "Ошибка",
-    "token_onliner": "ВСе токены в сети!"
+    "token_onliner": "ВСе токены в сети!",
+    "script_name": "Введите имя файла вашего скрипта (без .py): ",
+    "script_function_run_not_found": "Функция 'run' не найдена в файле скрипта.",
+    "script_file_not_found": "Файл не найден."
   },
   "pl": {
     "news": "NOWOŚCI",
@@ -287,7 +300,10 @@
     "servernickchanger_errormsg": "Błąd",
     "server_leaver_left": "Lewa",
     "server_leaver_error": "Błąd",
-    "token_onliner": "Wszystkie tokeny są dostępne online!"
+    "token_onliner": "Wszystkie tokeny są dostępne online!",
+    "script_name": "Wprowadź nazwę pliku skryptu (bez .py): ",
+    "script_function_run_not_found": "Funkcja 'run' nie została znaleziona w pliku skryptu.",
+    "script_file_not_found": "Nie znaleziono pliku."
   },
   "ua": {
     "news": "НОВИНИ",
@@ -345,6 +361,9 @@
     "servernickchanger_errormsg": "Помилка",
     "server_leaver_left": "Виїшов",
     "server_leaver_error": "Помилка",
-    "token_onliner": "Всі токени онлайн!"
+    "token_onliner": "Всі токени онлайн!",
+    "script_name": "Введіть ім'я файлу призначеного для користувача скрипта (без .py): ",
+    "script_function_run_not_found": "Функція 'run' не знайдена в скрипт файлі",
+    "script_file_not_found": "Файл не знайдено"
   }
 }
