@@ -59,7 +59,6 @@
     "script_name": "Enter the name of the script file (no .py): ",
     "script_function_run_not_found": "The 'run' function is not found in the script file.",
     "script_file_not_found": "File not found."
-    "
   },
   "fr": {
     "news": "NOUVELLES",
