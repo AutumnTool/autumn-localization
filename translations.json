@@ -54,7 +54,8 @@
     "servernickchanger_successmsg": "Changed nickname",
     "servernickchanger_errormsg": "Error",
     "server_leaver_left": "Left",
-    "server_leaver_error": "Error"
+    "server_leaver_error": "Error",
+    "token_onliner": "All tokens are online!"
   },
   "fr": {
     "news": "NOUVELLES",
@@ -111,7 +112,8 @@
     "servernickchanger_successmsg": "Le surnom est changé",
     "servernickchanger_errormsg": "Erreur",
     "server_leaver_left": "Gauche",
-    "server_leaver_error": "Erreur"
+    "server_leaver_error": "Erreur",
+    "token_onliner": "Tous les tokens sont en ligne !"
   },
   "se": {
     "news": "NYTT",
@@ -168,7 +170,8 @@
     "servernickchanger_successmsg": "Bytt smeknamn",
     "servernickchanger_errormsg": "Fel",
     "server_leaver_left": "Lämnade",
-    "server_leaver_error": "Fel"
+    "server_leaver_error": "Fel",
+    "token_onliner": "Alla tokens är online!"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -225,7 +228,8 @@
     "servernickchanger_successmsg": "Сменил никнейм",
     "servernickchanger_errormsg": "Ошибка",
     "server_leaver_left": "Вышел",
-    "server_leaver_error": "Ошибка"
+    "server_leaver_error": "Ошибка",
+    "token_onliner": "ВСе токены в сети!"
   },
   "pl": {
     "news": "NOWOŚCI",
@@ -282,7 +286,8 @@
     "servernickchanger_successmsg": "Pseudonim zmieniony",
     "servernickchanger_errormsg": "Błąd",
     "server_leaver_left": "Lewa",
-    "server_leaver_error": "Błąd"
+    "server_leaver_error": "Błąd",
+    "token_onliner": "Wszystkie tokeny są dostępne online!"
   },
   "ua": {
     "news": "НОВИНИ",
@@ -339,6 +344,7 @@
     "servernickchanger_successmsg": "Змiнив нiкнейм",
     "servernickchanger_errormsg": "Помилка",
     "server_leaver_left": "Виїшов",
-    "server_leaver_error": "Помилка"
+    "server_leaver_error": "Помилка",
+    "token_onliner": "Всі токени онлайн!"
   }
 }
