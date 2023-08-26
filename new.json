@@ -248,8 +248,8 @@
     "script_name": "Введите имя файла вашего скрипта (без .py): ",
     "script_function_run_not_found": "Функция 'run' не найдена в файле скрипта.",
     "script_file_not_found": "Файл не найден.",
-    "thread_spammer_success": "Successfully created Thread with name:",
-    "thread_spammer_fail": "Failed creating Thread with name:"
+    "thread_spammer_success": "Успешно создана ветка с именем:",
+    "thread_spammer_fail": "Не удалось создать ветку с именем:"
   },
   "pl": {
     "news": "NOWOŚCI",
