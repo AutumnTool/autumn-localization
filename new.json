@@ -60,7 +60,9 @@
     "script_function_run_not_found": "The 'run' function is not found in the script file.",
     "script_file_not_found": "File not found.",
     "thread_spammer_success": "Successfully created Thread with name:",
-    "thread_spammer_fail": "Failed creating Thread with name:"
+    "thread_spammer_fail": "Failed creating Thread with name:",
+    "button_presser_success": "Successfully Pressed Button:",
+    "button_presser_fail": "Failed Pressing Button:"
   },
   "fr": {
     "news": "NOUVELLES",
@@ -123,7 +125,9 @@
     "script_function_run_not_found": "La fonction 'run' est introuvable dans le fichier script.",
     "script_file_not_found": "Fichier non trouvé.",
     "thread_spammer_success": "Successfully created Thread with name:",
-    "thread_spammer_fail": "Failed creating Thread with name:"
+    "thread_spammer_fail": "Failed creating Thread with name:",
+    "button_presser_success": "Successfully Pressed Button:",
+    "button_presser_fail": "Failed Pressing Button:"
   },
   "se": {
     "news": "NYTT",
@@ -186,7 +190,9 @@
     "script_function_run_not_found": "'Kör' funktionen hittas inte i användarfilen.",
     "script_file_not_found": "Filen hittades inte",
     "thread_spammer_success": "Successfully created Thread with name:",
-    "thread_spammer_fail": "Failed creating Thread with name:"
+    "thread_spammer_fail": "Failed creating Thread with name:",
+    "button_presser_success": "Successfully Pressed Button:",
+    "button_presser_fail": "Failed Pressing Button:"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -249,7 +255,9 @@
     "script_function_run_not_found": "Функция 'run' не найдена в файле скрипта.",
     "script_file_not_found": "Файл не найден.",
     "thread_spammer_success": "Успешно создана ветка с именем:",
-    "thread_spammer_fail": "Не удалось создать ветку с именем:"
+    "thread_spammer_fail": "Не удалось создать ветку с именем:",
+    "button_presser_success": "Успешно нажата кнопка:",
+    "button_presser_fail": "Неудачное нажатие кнопки:"
   },
   "pl": {
     "news": "NOWOŚCI",
@@ -312,7 +320,9 @@
     "script_function_run_not_found": "Funkcja 'run' nie została znaleziona w pliku skryptu.",
     "script_file_not_found": "Nie znaleziono pliku.",
     "thread_spammer_success": "Successfully created Thread with name:",
-    "thread_spammer_fail": "Failed creating Thread with name:"
+    "thread_spammer_fail": "Failed creating Thread with name:",
+    "button_presser_success": "Successfully Pressed Button:",
+    "button_presser_fail": "Failed Pressing Button:"
   },
   "ua": {
     "news": "НОВИНИ",
@@ -375,6 +385,8 @@
     "script_function_run_not_found": "Функція 'run' не знайдена в скрипт файлі",
     "script_file_not_found": "Файл не знайдено",
     "thread_spammer_success": "Успішно створена гілка з ім'ям:",
-    "thread_spammer_fail": "Не вдалося створити гілку з іменем:"
+    "thread_spammer_fail": "Не вдалося створити гілку з іменем:",
+    "button_presser_success": "Successfully Pressed Button:",
+    "button_presser_fail": "Failed Pressing Button:"
   }
 }
