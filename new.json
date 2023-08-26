@@ -374,7 +374,7 @@
     "script_name": "Введіть ім'я файлу призначеного для користувача скрипта (без .py): ",
     "script_function_run_not_found": "Функція 'run' не знайдена в скрипт файлі",
     "script_file_not_found": "Файл не знайдено",
-    "thread_spammer_success": "Successfully created Thread with name:",
-    "thread_spammer_fail": "Failed creating Thread with name:"
+    "thread_spammer_success": "Успішно створена гілка з ім'ям:",
+    "thread_spammer_fail": "Не вдалося створити гілку з іменем:"
   }
 }
