@@ -58,7 +58,9 @@
     "token_onliner": "All tokens are online!",
     "script_name": "Enter the name of the script file (no .py): ",
     "script_function_run_not_found": "The 'run' function is not found in the script file.",
-    "script_file_not_found": "File not found."
+    "script_file_not_found": "File not found.",
+    "thread_spammer_success": "Successfully created Thread with name:",
+    "thread_spammer_fail": "Failed creating Thread with name:"
   },
   "fr": {
     "news": "NOUVELLES",
@@ -119,7 +121,9 @@
     "token_onliner": "Tous les tokens sont en ligne !",
     "script_name": "Saisissez le nom du fichier de script (pas de .py) : ",
     "script_function_run_not_found": "La fonction 'run' est introuvable dans le fichier script.",
-    "script_file_not_found": "Fichier non trouvé."
+    "script_file_not_found": "Fichier non trouvé.",
+    "thread_spammer_success": "Successfully created Thread with name:",
+    "thread_spammer_fail": "Failed creating Thread with name:"
   },
   "se": {
     "news": "NYTT",
@@ -180,7 +184,9 @@
     "token_onliner": "Alla tokens är online!",
     "script_name": "Skriv in namnet på den anpassade skriptfilen (utan .py): ",
     "script_function_run_not_found": "'Kör' funktionen hittas inte i användarfilen.",
-    "script_file_not_found": "Filen hittades inte"
+    "script_file_not_found": "Filen hittades inte",
+    "thread_spammer_success": "Successfully created Thread with name:",
+    "thread_spammer_fail": "Failed creating Thread with name:"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -241,7 +247,9 @@
     "token_onliner": "ВСе токены в сети!",
     "script_name": "Введите имя файла вашего скрипта (без .py): ",
     "script_function_run_not_found": "Функция 'run' не найдена в файле скрипта.",
-    "script_file_not_found": "Файл не найден."
+    "script_file_not_found": "Файл не найден.",
+    "thread_spammer_success": "Successfully created Thread with name:",
+    "thread_spammer_fail": "Failed creating Thread with name:"
   },
   "pl": {
     "news": "NOWOŚCI",
@@ -302,7 +310,9 @@
     "token_onliner": "Wszystkie tokeny są dostępne online!",
     "script_name": "Wprowadź nazwę pliku skryptu (bez .py): ",
     "script_function_run_not_found": "Funkcja 'run' nie została znaleziona w pliku skryptu.",
-    "script_file_not_found": "Nie znaleziono pliku."
+    "script_file_not_found": "Nie znaleziono pliku.",
+    "thread_spammer_success": "Successfully created Thread with name:",
+    "thread_spammer_fail": "Failed creating Thread with name:"
   },
   "ua": {
     "news": "НОВИНИ",
@@ -363,6 +373,8 @@
     "token_onliner": "Всі токени онлайн!",
     "script_name": "Введіть ім'я файлу призначеного для користувача скрипта (без .py): ",
     "script_function_run_not_found": "Функція 'run' не знайдена в скрипт файлі",
-    "script_file_not_found": "Файл не знайдено"
+    "script_file_not_found": "Файл не знайдено",
+    "thread_spammer_success": "Successfully created Thread with name:",
+    "thread_spammer_fail": "Failed creating Thread with name:"
   }
 }
