@@ -215,7 +215,7 @@
     "menu_channel_id": "ID Канала",
     "menu_pings": "Пинги",
     "menu_message": "Текст",
-    "menu_threads": "Количество",
+    "menu_threads": "Потоков",
     "menu_serverleaver_chars": "Использовать случайные символы в конце (y/n)",
     "menu_serverleaver_nick": "Никнейм",
     "menu_leave_and_join": "Ливать и присоединиться (y/n)",
