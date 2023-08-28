@@ -189,10 +189,10 @@
     "script_name": "Skriv in namnet på den anpassade skriptfilen (utan .py): ",
     "script_function_run_not_found": "'Kör' funktionen hittas inte i användarfilen.",
     "script_file_not_found": "Filen hittades inte",
-    "thread_spammer_success": "Successfully created Thread with name:",
-    "thread_spammer_fail": "Failed creating Thread with name:",
-    "button_presser_success": "Successfully Pressed Button:",
-    "button_presser_fail": "Failed Pressing Button:"
+    "thread_spammer_success": "Tråden har skapats med namn:",
+    "thread_spammer_fail": "Det gick inte att skapa tråd med namn:",
+    "button_presser_success": "Succe med att klicka på knapp:",
+    "button_presser_fail": "Misslyckades att trycka på knappen:"
   },
   "ru": {
     "news": "НОВОСТИ",
