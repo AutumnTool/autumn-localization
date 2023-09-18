@@ -80,11 +80,11 @@
     "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
     "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
     "avatarchanger_success": "All tokens are changed their avatars!",
-    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
+    "avatarchanger_results": "tokens are changed their avatars.",
     "server_checker_onserver": "On Server!",
     "server_checker_notonserver": "Not On Server!",
     "server_checker_alltokensonserver": "All tokens are on server!",
-    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "server_checker_results": "tokens are on server.",
     "rate_limited": "Rate Limited!"
   },
   "fr": {
@@ -168,11 +168,11 @@
     "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
     "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
     "avatarchanger_success": "All tokens are changed their avatars!",
-    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
+    "avatarchanger_results": "tokens are changed their avatars.",
     "server_checker_onserver": "On Server!",
     "server_checker_notonserver": "Not On Server!",
     "server_checker_alltokensonserver": "All tokens are on server!",
-    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "server_checker_results": "tokens are on server.",
     "rate_limited": "Rate Limited!"
   },
   "se": {
@@ -239,28 +239,28 @@
     "thread_spammer_fail": "Det gick inte att skapa tråd med namn:",
     "button_presser_success": "Succe med att klicka på knapp:",
     "button_presser_fail": "Misslyckades att trycka på knappen:",
-    "webhookspammer_success": "Success sent message to webhook!",
-    "webhookspammer_fail": "Failed sending message -",
-    "webhookspammer_url": "Webhook URL:",
-    "webhookspammer_message": "Message:",
-    "spammer_scrape_warning": "BTW IF TOKEN NOT IN A SERVER/DONT HAVE PERMS TO SEE CHANNEL HE WONT SCRAPE",
+    "webhookspammer_success": "Framgång med att skicka meddelande till webhook!",
+    "webhookspammer_fail": "Misslyckades med att skicka meddelande -",
+    "webhookspammer_url": "URL för webhook:",
+    "webhookspammer_message": "Meddelande:",
+    "spammer_scrape_warning": "OM EN TOKEN INTE FINNS PÅ EN SERVER/INTE KAN KOMMA ÅT LOUNGEN, KAN DEN INTE ERHÅLLA MEDLEMMARNAS IDENTIFIERARE",
     "spammer_scrape_trying_to_scrape": "Trying to scrape...",
-    "vcplayer_ffmpeg_not_found": "Ffmpeg not found, downloading it now",
-    "vcplayer_ffmpeg_downloaded": "Ffmpeg downloaded",
-    "vcplayer_fail_found_songs_folder": "data/songs not found in the Autumn folder :sob:",
-    "vcplayer_error_detecton": "Detected error, reconnecting for",
-    "vcplayer_error_connect_channel": "Failed to connect to channel for",
-    "soundboardspammer_use_random_sounds": "Use Random Sounds",
-    "soundboardspammer_enter_number": "Enter number",
+    "vcplayer_ffmpeg_not_found": "Ffmpeg hittades inte, laddar ner det nu",
+    "vcplayer_ffmpeg_downloaded": "Ffmpeg nedladdad",
+    "vcplayer_fail_found_songs_folder": "data/songs hittades inte i Autumn-mappen :sob:",
+    "vcplayer_error_detecton": "Fel upptäcktes, återansluter för",
+    "vcplayer_error_connect_channel": "Det gick inte att ansluta till kanalen för",
+    "soundboardspammer_use_random_sounds": "Använd slumpmässiga ljud",
+    "soundboardspammer_enter_number": "Ange nummer",
     "spammer_massping": "Mass Ping",
-    "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
-    "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
-    "avatarchanger_success": "All tokens are changed their avatars!",
-    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
-    "server_checker_onserver": "On Server!",
-    "server_checker_notonserver": "Not On Server!",
-    "server_checker_alltokensonserver": "All tokens are on server!",
-    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "spammer_use_your_own_custom_message": "Använd ditt eget anpassade meddelande",
+    "avatarchanger_warning": "AVATAR CHANGER KAN LÅSA IN DINA TOKENS SÅ ANVÄND DET PÅ EGEN RISK (för att fortsätta skriv y för att gå tillbaka till huvudmenyn skriv n)",
+    "avatarchanger_success": "Alla tokens har ändrat sina avatarer!",
+    "avatarchanger_results": "tokens har ändrat sina avatarer.",
+    "server_checker_onserver": "På server!",
+    "server_checker_notonserver": "Ej på server!",
+    "server_checker_alltokensonserver": "Alla tokens finns på servern!",
+    "server_checker_results": "tokens finns på servern.",
     "rate_limited": "Rate Limited!"
   },
   "ru": {
@@ -340,15 +340,15 @@
     "vcplayer_error_connect_channel": "Не удалось подключиться к каналу для",
     "soundboardspammer_use_random_sounds": "Использование случайных звуков",
     "soundboardspammer_enter_number": "Введите число",
-    "spammer_massping": "Mass Ping",
-    "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
-    "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
-    "avatarchanger_success": "All tokens are changed their avatars!",
-    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
-    "server_checker_onserver": "On Server!",
-    "server_checker_notonserver": "Not On Server!",
-    "server_checker_alltokensonserver": "All tokens are on server!",
-    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "spammer_massping": "Массовое Упоминание",
+    "spammer_use_your_own_custom_message": "Использовать ваше собственное сообщение",
+    "avatarchanger_warning": "СМЕНА АВАТАРА ДЛЯ ТОКЕНОВ МОЖЕТ ИХ ЛОКНУТЬ ИСПОЛЬЗУЙ НА СВОЙ СТРАХ И РИСК (БУДЕТ ТРЕБОВАТЬ ВЕРИФИКАЦИЮ ПО НОМЕРУ) чтобы продолжить, введите y, чтобы вернуться в главное меню, введите n",
+    "avatarchanger_success": "Все токены сменили свои аватары!",
+    "avatarchanger_results": "токенов сменили свои аватары.",
+    "server_checker_onserver": "На сервере!",
+    "server_checker_notonserver": "Нет на сервере!",
+    "server_checker_alltokensonserver": "Все токены находятся на сервере!",
+    "server_checker_results": "токены находятся на сервере.",
     "rate_limited": "Rate Limited!"
   },
   "pl": {
@@ -429,14 +429,14 @@
     "soundboardspammer_use_random_sounds": "Używaj losowych dźwięków",
     "soundboardspammer_enter_number": "Wprowadź liczbę",
     "spammer_massping": "Mass Ping",
-    "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
-    "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
-    "avatarchanger_success": "All tokens are changed their avatars!",
-    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
-    "server_checker_onserver": "On Server!",
-    "server_checker_notonserver": "Not On Server!",
-    "server_checker_alltokensonserver": "All tokens are on server!",
-    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "spammer_use_your_own_custom_message": "Użyj własnej wiadomości",
+    "avatarchanger_warning": "AVATAR CHANGE FOR TOKENS MAY LOCK THEM USE AT YOUR OWNEL RYZYKO (WYMAGA WERYFIKACJI NUMERU) aby kontynuować, wprowadź y aby powrócić do menu głównego, wprowadź n",
+    "avatarchanger_success": "Wszystkie tokeny zmieniły swoje awatary!",
+    "avatarchanger_results": "tokeny zmieniają swoje awatary.",
+    "server_checker_onserver": "Na serwerze!",
+    "server_checker_notonserver": "Nie na serwerze!",
+    "server_checker_alltokensonserver": "Wszystkie tokeny są na serwerze!",
+    "server_checker_results": "tokeny znajdują się na serwerze.",
     "rate_limited": "Rate Limited!"
   }
 }
