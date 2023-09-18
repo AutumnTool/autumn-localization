@@ -77,7 +77,15 @@
     "soundboardspammer_use_random_sounds": "Use Random Sounds",
     "soundboardspammer_enter_number": "Enter number",
     "spammer_massping": "Mass Ping",
-    "spammer_use_your_own_custom_message": "Use Your Own Custom Message"
+    "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
+    "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
+    "avatarchanger_success": "All tokens are changed their avatars!",
+    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
+    "server_checker_onserver": "On Server!",
+    "server_checker_notonserver": "Not On Server!",
+    "server_checker_alltokensonserver": "All tokens are on server!",
+    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "rate_limited": "Rate Limited!"
   },
   "fr": {
     "news": "NOUVELLES",
@@ -157,7 +165,15 @@
     "soundboardspammer_use_random_sounds": "Utiliser des sons aléatoires",
     "soundboardspammer_enter_number": "Entrer un nombre",
     "spammer_massping": "Mass Ping",
-    "spammer_use_your_own_custom_message": "Use Your Own Custom Message"
+    "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
+    "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
+    "avatarchanger_success": "All tokens are changed their avatars!",
+    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
+    "server_checker_onserver": "On Server!",
+    "server_checker_notonserver": "Not On Server!",
+    "server_checker_alltokensonserver": "All tokens are on server!",
+    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "rate_limited": "Rate Limited!"
   },
   "se": {
     "news": "NYTT",
@@ -237,7 +253,15 @@
     "soundboardspammer_use_random_sounds": "Use Random Sounds",
     "soundboardspammer_enter_number": "Enter number",
     "spammer_massping": "Mass Ping",
-    "spammer_use_your_own_custom_message": "Use Your Own Custom Message"
+    "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
+    "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
+    "avatarchanger_success": "All tokens are changed their avatars!",
+    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
+    "server_checker_onserver": "On Server!",
+    "server_checker_notonserver": "Not On Server!",
+    "server_checker_alltokensonserver": "All tokens are on server!",
+    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "rate_limited": "Rate Limited!"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -317,7 +341,15 @@
     "soundboardspammer_use_random_sounds": "Использование случайных звуков",
     "soundboardspammer_enter_number": "Введите число",
     "spammer_massping": "Mass Ping",
-    "spammer_use_your_own_custom_message": "Use Your Own Custom Message"
+    "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
+    "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
+    "avatarchanger_success": "All tokens are changed their avatars!",
+    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
+    "server_checker_onserver": "On Server!",
+    "server_checker_notonserver": "Not On Server!",
+    "server_checker_alltokensonserver": "All tokens are on server!",
+    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "rate_limited": "Rate Limited!"
   },
   "pl": {
     "news": "NOWOŚCI",
@@ -397,6 +429,14 @@
     "soundboardspammer_use_random_sounds": "Używaj losowych dźwięków",
     "soundboardspammer_enter_number": "Wprowadź liczbę",
     "spammer_massping": "Mass Ping",
-    "spammer_use_your_own_custom_message": "Use Your Own Custom Message"
+    "spammer_use_your_own_custom_message": "Use Your Own Custom Message",
+    "avatarchanger_warning": "AVATAR CHANGER MAY LOCK YOUR TOKENS SO USE IT AT YOUR OWN RISK (to continue type y to back to mainmenu type n)",
+    "avatarchanger_success": "All tokens are changed their avatars!",
+    "avatarchanger_results": "tokens are changed their avatars.", //btw theres like (Amount of tokens) tokens are changed their avatars. for example 10 tokens are changed their avatars. so ye
+    "server_checker_onserver": "On Server!",
+    "server_checker_notonserver": "Not On Server!",
+    "server_checker_alltokensonserver": "All tokens are on server!",
+    "server_checker_results": "tokens are on server.", //same shit that in avatarchanger_results
+    "rate_limited": "Rate Limited!"
   }
 }
